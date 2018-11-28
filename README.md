@@ -6,5 +6,4 @@ Feel free to use this code to make it better
 
 it have some flows like draw message is not displayed and maybe other.
 
-this code is more useful for those how are at bigginig stage.
-or one who wanted to try basic python3 features in order to practice. 
+ 
