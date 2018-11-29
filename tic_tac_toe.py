@@ -1,5 +1,5 @@
 
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 ^
 shebang line [You can change it or remove it as per you need]
@@ -122,5 +122,5 @@ while looper:
                 break
     else:
         print("This spot is already taken!!!")
-        break
+        
     show()
